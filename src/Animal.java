@@ -14,6 +14,6 @@ public class Animal
 
     public void eat()
     {
-        System.out.println("Ea");
+        System.out.println("Eat");
     }
 }
